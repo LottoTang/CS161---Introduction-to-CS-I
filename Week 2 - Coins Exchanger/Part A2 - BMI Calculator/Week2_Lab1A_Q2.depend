@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632884331 source:c:\users\lotto\desktop\lotto\computer science\cs161c\lab\week2_lab1a&b\week2_lab1a_q2\week2_lab1a_q2\main.cpp
+	<iostream>
+	<iomanip>
+
