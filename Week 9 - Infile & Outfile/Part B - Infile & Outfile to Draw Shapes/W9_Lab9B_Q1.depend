@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1637470766 source:c:\users\lotto\desktop\lotto\computer science\cs161c\lab\week9_lab9a&b\w9_lab9b_q1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"W9_Lab9B_Q1.h"
+
+1637469874 c:\users\lotto\desktop\lotto\computer science\cs161c\lab\week9_lab9a&b\w9_lab9b_q1\w9_lab9b_q1.h
+	<sstream>
+	<iostream>
+	<fstream>
+
+1637469862 source:c:\users\lotto\desktop\lotto\computer science\cs161c\lab\week9_lab9a&b\w9_lab9b_q1\w9_lab9b_q1_functions.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"W9_Lab9B_Q1.h"
+
+1637444908 source:c:\users\lotto.tang\downloads\lab\week9_lab9a_b\w9_lab9b_q1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"W9_Lab9B_Q1.h"
+
+1637412274 c:\users\lotto.tang\downloads\lab\week9_lab9a_b\w9_lab9b_q1\w9_lab9b_q1.h
+	<sstream>
+	<iostream>
+	<fstream>
+
+1637412262 source:c:\users\lotto.tang\downloads\lab\week9_lab9a_b\w9_lab9b_q1\w9_lab9b_q1_functions.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"W9_Lab9B_Q1.h"
+
+1637444908 source:c:\users\lotto.tang\downloads\lab\week9_lab9a_b\part b - infile & outfile to draw shapes\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"W9_Lab9B_Q1.h"
+
+1637412274 c:\users\lotto.tang\downloads\lab\week9_lab9a_b\part b - infile & outfile to draw shapes\w9_lab9b_q1.h
+	<sstream>
+	<iostream>
+	<fstream>
+
+1637412262 source:c:\users\lotto.tang\downloads\lab\week9_lab9a_b\part b - infile & outfile to draw shapes\w9_lab9b_q1_functions.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"W9_Lab9B_Q1.h"
+

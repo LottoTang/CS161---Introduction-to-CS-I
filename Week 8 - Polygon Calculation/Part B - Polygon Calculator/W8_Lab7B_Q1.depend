@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1635087362 source:c:\users\lotto\desktop\lotto\computer science\cs161c\lab\week8_lab7a&b\w8_lab7b_q1\main.cpp
+	<iostream>
+	"CALCULATEAREA.H"
+
+1635084381 c:\users\lotto\desktop\lotto\computer science\cs161c\lab\week8_lab7a&b\w8_lab7b_q1\calculatearea.h
+
+1635084789 source:c:\users\lotto\desktop\lotto\computer science\cs161c\lab\week8_lab7a&b\w8_lab7b_q1\calculatearea.cpp
+	<iostream>
+	"calculateArea.h"
+
+1635030788 source:c:\users\lotto.tang\downloads\lab\week8_lab7a_b\w8_lab7b_q1\calculatearea.cpp
+	<iostream>
+	"calculateArea.h"
+
+1635030380 c:\users\lotto.tang\downloads\lab\week8_lab7a_b\w8_lab7b_q1\calculatearea.h
+
+1635036210 source:c:\users\lotto.tang\downloads\lab\week8_lab7a_b\w8_lab7b_q1\main.cpp
+	<iostream>
+	"CALCULATEAREA.H"
+
+1635030788 source:c:\users\lotto.tang\downloads\lab\week8_lab7a_b\part b - polygon calculator\calculatearea.cpp
+	<iostream>
+	"calculateArea.h"
+
+1635030380 c:\users\lotto.tang\downloads\lab\week8_lab7a_b\part b - polygon calculator\calculatearea.h
+
+1635036210 source:c:\users\lotto.tang\downloads\lab\week8_lab7a_b\part b - polygon calculator\main.cpp
+	<iostream>
+	"CALCULATEAREA.H"
+
